@@ -1,0 +1,154 @@
+{
+  "cars": [
+    {
+      "caption": "Hyundai Creta 1.6 SX",
+      "imageURL": "https://mda.spinny.com/sp-file-system/public/2024-01-12/a774725637c7419fa29e756d65bd0309/file.JPG",
+      "kilometres": "30000",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "price": "12,50,000",
+      "location": "Delhi",
+      "id": 1
+    },
+    {
+      "caption": "2022 Skoda Kushaq Style",
+      "imageURL": "https://spn-mda.spinny.com/img/5BLjgVssQrKCURNKScR4vQ/file.JPG",
+      "kilometres": "45000",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "price": "67000",
+      "location": "Delhi",
+      "id": 2
+    },
+    {
+      "caption": "2019 Audi A3 35 TFSI",
+      "imageURL": "https://spn-mda.spinny.com/img/b4_oT_UaRnGRufu5gGmRrQ/file.JPG?w=900&dpr=1.5",
+      "kilometres": "35000",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "price": "17,000,00",
+      "location": "Kochi",
+      "id": 3
+    },
+    {
+      "caption": "2017 Mercedes-Benz CLA 200 ",
+      "imageURL": "https://spn-mda.spinny.com/img/NV9ljmpzQE%2BkASzhWhIIwQ/file.JPG",
+      "kilometres": "30000",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "price": "21,50,000",
+      "location": "Bangalore",
+      "id": 4
+    },
+    {
+      "caption": "2022 Jeep Compass Limited ",
+      "imageURL": "https://mda.spinny.com/sp-file-system/public/2024-02-19/65db84a4065a495893a2d1fb38155b4b/file.JPG",
+      "kilometres": "55000",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "price": "23,000,00",
+      "location": "Gurgaon",
+      "id": 5
+    },
+    {
+      "caption": "2016 Hyundai Creta 1.6",
+      "imageURL": "https://spn-mda.spinny.com/img/dobM_4lvQbiN19xyHuK8tg/file.JPG",
+      "kilometres": "89000",
+      "fuel": "CNG",
+      "transmission": "Automatic",
+      "price": "8,50,000",
+      "location": "Delhi",
+      "id": 6
+    }
+  ],
+  "history": [
+    {
+      "caption": "2022 Skoda Kushaq Style",
+      "imageURL": "https://spn-mda.spinny.com/img/5BLjgVssQrKCURNKScR4vQ/file.JPG",
+      "kilometres": "45000",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "price": "67000",
+      "location": "Delhi",
+      "timeStamp": "03/11/2024, 12:26:37 PM",
+      "id": 1
+    },
+    {
+      "caption": "2022 Jeep Compass Limited ",
+      "imageURL": "https://mda.spinny.com/sp-file-system/public/2024-02-19/65db84a4065a495893a2d1fb38155b4b/file.JPG",
+      "kilometres": "55000",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "price": "23,000,00",
+      "location": "Gurgaon",
+      "timeStamp": "03/11/2024, 12:27:17 PM",
+      "id": 2
+    },
+    {
+      "caption": "2016 Hyundai Creta 1.6",
+      "imageURL": "https://spn-mda.spinny.com/img/dobM_4lvQbiN19xyHuK8tg/file.JPG",
+      "kilometres": "89000",
+      "fuel": "CNG",
+      "transmission": "Automatic",
+      "price": "8,50,000",
+      "location": "Delhi",
+      "timeStamp": "03/11/2024, 12:27:18 PM",
+      "id": 3
+    },
+    {
+      "caption": "2017 Mercedes-Benz CLA 200 ",
+      "imageURL": "https://spn-mda.spinny.com/img/NV9ljmpzQE%2BkASzhWhIIwQ/file.JPG",
+      "kilometres": "30000",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "price": "21,50,000",
+      "location": "Bangalore",
+      "timeStamp": "03/11/2024, 12:27:19 PM",
+      "id": 4
+    },
+    {
+      "caption": "Hyundai Creta 1.6 SX",
+      "imageURL": "https://mda.spinny.com/sp-file-system/public/2024-01-12/a774725637c7419fa29e756d65bd0309/file.JPG",
+      "kilometres": "30000",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "price": "12,50,000",
+      "location": "Delhi",
+      "timeStamp": "03/11/2024, 12:32:17 PM",
+      "id": 5
+    },
+    {
+      "caption": "2019 Audi A3 35 TFSI",
+      "imageURL": "https://spn-mda.spinny.com/img/b4_oT_UaRnGRufu5gGmRrQ/file.JPG?w=900&dpr=1.5",
+      "kilometres": "35000",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "price": "17,000,00",
+      "location": "Kochi",
+      "timeStamp": "03/11/2024, 12:36:24 PM",
+      "id": 6
+    },
+    {
+      "caption": "2022 Skoda Kushaq Style",
+      "imageURL": "https://spn-mda.spinny.com/img/5BLjgVssQrKCURNKScR4vQ/file.JPG",
+      "kilometres": "45000",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "price": "67000",
+      "location": "Delhi",
+      "timeStamp": "03/11/2024, 12:39:48 PM",
+      "id": 7
+    },
+    {
+      "caption": "2022 Skoda Kushaq Style",
+      "imageURL": "https://spn-mda.spinny.com/img/5BLjgVssQrKCURNKScR4vQ/file.JPG",
+      "kilometres": "45000",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "price": "67000",
+      "location": "Delhi",
+      "timeStamp": "03/11/2024, 12:40:00 PM",
+      "id": 8
+    }
+  ]
+}
